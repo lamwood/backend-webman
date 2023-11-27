@@ -63,7 +63,7 @@ class BackendInstall extends Command{
         return self::SUCCESS;
     }
     /**
-     * download pakege
+     * download package
      * @param type $name
      * @param type $version
      * @return bool|string
